@@ -29,7 +29,7 @@ int main() {
         break;
     case 4:
             result = (double)a / b;
-            break;
+            break;difglij
     
     }
     cout << " result = " << result << endl;
