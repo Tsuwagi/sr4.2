@@ -26,7 +26,12 @@ int main() {
         break;
     case 3:
         result = a * b;
-        break;dfgjlj
+        break;
+    case 4:
+            result = (double)a / b;
+            break;
+    
+    }
     cout << " result = " << result << endl;
 return 0;
 }
