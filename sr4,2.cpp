@@ -26,7 +26,7 @@ int main() {
         break;
     case 3:
         result = a * b;
-        break;
+        break;dfgjlj
     cout << " result = " << result << endl;
 return 0;
 }
